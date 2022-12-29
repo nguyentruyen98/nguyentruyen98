@@ -23,8 +23,7 @@
 
 | ![Truyen Nguyen(Roy)'s github stats](https://github-readme-stats.vercel.app/api?username=nguyentruyen98&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nguyentruyen98&theme=tokyonight) |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentruyen98&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentruyen98&theme=tokyonight)
 
 <br>
 
