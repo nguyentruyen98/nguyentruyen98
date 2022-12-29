@@ -2,6 +2,6 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/truyen-nguyen-56b0411b5/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/nguyentruyen98/nguyentruyen98/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
