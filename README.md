@@ -1,48 +1,39 @@
 <h1 align="center"><b>Hi , I'm Truyen Nguyen (Roy) </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=5594F0&lines=Web%20Developer)
 
-</div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer"></a>
+</p>
+
 <div align="center">
   
 [![Truyen Nguyen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nguyentruyen98&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
+## About Me
 
-## About Me 
-  
+- 🔭 I’m currently working on [Gogox Vietnam TechHub](https://www.linkedin.com/company/gogox/mycompany/verification/)
 
-- 🔭 I’m currently working on [Gogox Vietnam TechHub](https://www.linkedin.com/company/gogox/mycompany/verification/)  
-  
+- 🌱 I’m currently learning Go, Postgres and Nginx
 
-- 🌱 I’m currently learning Go, Postgres and Nginx  
-  
+<br/>
 
-  
-  
-
-<br/>  
-
-## My Stats  
-
+## My Stats
 
 | ![Truyen Nguyen(Roy)'s github stats](https://github-readme-stats.vercel.app/api?username=nguyentruyen98&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nguyentruyen98&theme=tokyonight) |
-| --- | --- |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentruyen98&theme=tokyonight)
-
-
 
 <br>
 
-## My Skill Set  
+## My Skill Set
+
 <table><tr><td valign="top" width="33%">
 
+### Frontend
 
-
-### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -60,9 +51,8 @@
 
 </td><td valign="top" width="33%">
 
+### Backend
 
-
-### Backend  
 <div align="center">  
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
@@ -72,21 +62,20 @@
 
 </td><td valign="top" width="33%">
 
+### DevOps
 
-
-### DevOps  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+<br/>
 
+---
 
------
 Credits: [Truyen Nguyen](https://www.linkedin.com/in/truyen-nguyen-56b0411b5/)
 
 Last Edited on: 29/12/2022
