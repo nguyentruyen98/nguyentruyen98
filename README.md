@@ -6,6 +6,8 @@
        alt="snake" /></a>
 </div>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=5594F0&lines=Software%20Engineer)
+
 ## About Me 
   
 
@@ -15,7 +17,6 @@
 - 🌱 I’m currently learning Go, Postgres and Nginx  
   
 
-- ❓ Ask me about anything related to Reactjs and Nextjs
   
   
 
@@ -79,3 +80,9 @@
 </td></tr></table>  
 
 <br/>  
+
+
+-----
+Credits: [Truyen Nguyen](https://www.linkedin.com/in/truyen-nguyen-56b0411b5/)
+
+Last Edited on: 29/12/2022
