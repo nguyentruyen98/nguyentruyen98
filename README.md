@@ -21,6 +21,16 @@
 
 <br/>  
 
+## My Stats  
+
+
+| ![Truyen Nguyen(Roy)'s github stats](https://github-readme-stats.vercel.app/api?username=nguyentruyen98&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nguyentruyen98&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentruyen98&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=nguyentruyen98&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+
+
+<br>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
