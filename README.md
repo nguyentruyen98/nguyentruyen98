@@ -16,6 +16,7 @@
 - 🔭 I’m currently working on [Gogox Vietnam TechHub](https://www.linkedin.com/company/gogox/mycompany/verification/)
 
 - 🌱 I’m currently learning Go, Postgres and Nginx
+- Nice to meet you all :)))
 
 <br/>
 
